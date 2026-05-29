@@ -1,14 +1,14 @@
 # 10. Sınıf Sınav Çalışma Planı (28 Mayıs - 11 Haziran 2026)
 
 ## 📅 28 Mayıs Perşembe (Sınava 5 Gün)
-- [ ] 17:00-17:30 - Eve geliş, dinlenme ve atıştırma
+- [x] 17:00-17:30 - Eve geliş, dinlenme ve atıştırma
 - [ ] 17:30-19:00 - Fizik 10 (Elektrik, Manyetizma vb.)
 - [ ] 19:15-20:45 - Fizik devam + formül kartları hazırlama
 - [ ] 21:00-22:00 - Edebiyat 10 (Şiir bilgisi, edebi akımlar, yazarlar)
 - [ ] 22:00-22:15 - Günün tekrarı (Fizik formülleri)
 
 ## 📅 29 Mayıs Cuma (Sınava 4 Gün)
-- [ ] 17:00-17:30 - Dinlenme
+- [x ] 17:00-17:30 - Dinlenme
 - [ ] 17:30-19:00 - Edebiyat 10 (Düz yazı türleri, roman, hikaye)
 - [ ] 19:15-20:30 - İngilizce 10 (Kelime tekrarı, tense'ler)
 - [ ] 20:45-21:45 - Biyoloji 10 (Sinir sistemi, endokrin vb.)
