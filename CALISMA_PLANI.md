@@ -15,7 +15,7 @@
 - [ ] 21:45-22:00 - Edebiyat notlarını gözden geçirme
 
 ## 📅 30 Mayıs Cumartesi (Hafta Sonu)
-- [ ] 10:00-12:00 - Tarih 10 (Osmanlı'da değişim, diplomasi)
+- [x] 10:00-12:00 - Tarih 10 (Osmanlı'da değişim, diplomasi)
 - [ ] 13:00-14:30 - Türk Düşünce Tarihi 10 (İslam öncesi/sonrası)
 - [ ] 14:45-16:00 - Kimya 10 (Periyodik tablo, kimyasal türler)
 - [ ] 17:00-18:30 - Felsefe 10 (Bilgi ve varlık felsefesi)
