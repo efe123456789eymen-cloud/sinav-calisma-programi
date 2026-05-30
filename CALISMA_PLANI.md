@@ -10,7 +10,7 @@
 ## 📅 29 Mayıs Cuma (Sınava 4 Gün)
 - [x] 17:00-17:30 - Dinlenme
 - [x] 17:30-19:00 - Edebiyat 10 (Düz yazı türleri, roman, hikaye)
-- [ ] 19:15-20:30 - İngilizce 10 (Kelime tekrarı, tense'ler)
+- [x] 19:15-20:30 - İngilizce 10 (Kelime tekrarı, tense'ler)
 - [ ] 20:45-21:45 - Biyoloji 10 (Sinir sistemi, endokrin vb.)
 - [ ] 21:45-22:00 - Edebiyat notlarını gözden geçirme
 
