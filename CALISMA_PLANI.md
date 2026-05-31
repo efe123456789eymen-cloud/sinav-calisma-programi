@@ -23,8 +23,8 @@
 - [ ] 20:30-22:00 - Edebiyat soru çözümü
 
 ## 📅 31 Mayıs Pazar (İlk Sınava 2 Gün)
-- [ ] 10:00-12:00 - Coğrafya 10 (Nüfus, göç, ekonomi)
-- [ ] 12:00-13:30 - Din Kültürü 10 (İslam, diğer dinler, ahlak)
+- [x] 10:00-12:00 - Coğrafya 10 (Nüfus, göç, ekonomi)
+- [x] 12:00-13:30 - Din Kültürü 10 (İslam, diğer dinler, ahlak)
 - [ ] 14:45-16:00 - Matematik 10 (Fonksiyonlar, polinomlar)
 - [ ] 17:00-18:30 - Fizik deneme sınavı çözümü (Geçmiş yazılılar)
 - [ ] 19:30-21:00 - Edebiyat yazılı provası (3 hikaye tahlili, paragraf)
