@@ -4,7 +4,7 @@
 - [x] 17:00-17:30 - Eve geliş, dinlenme ve atıştırma
 - [ ] 17:30-19:00 - Fizik 10 (Elektrik, Manyetizma vb.)
 - [ ] 19:15-20:45 - Fizik devam + formül kartları hazırlama
-- [ ] 21:00-22:00 - Edebiyat 10 (Şiir bilgisi, edebi akımlar, yazarlar)
+- [x] 21:00-22:00 - Edebiyat 10 (Şiir bilgisi, edebi akımlar, yazarlar)
 - [ ] 22:00-22:15 - Günün tekrarı (Fizik formülleri)
 
 ## 📅 29 Mayıs Cuma (Sınava 4 Gün)
@@ -12,7 +12,7 @@
 - [x] 17:30-19:00 - Edebiyat 10 (Düz yazı türleri, roman, hikaye)
 - [x] 19:15-20:30 - İngilizce 10 (Kelime tekrarı, tense'ler)
 - [ ] 20:45-21:45 - Biyoloji 10 (Sinir sistemi, endokrin vb.)
-- [ ] 21:45-22:00 - Edebiyat notlarını gözden geçirme
+- [x] 21:45-22:00 - Edebiyat notlarını gözden geçirme
 
 ## 📅 30 Mayıs Cumartesi (Hafta Sonu)
 - [x] 10:00-12:00 - Tarih 10 (Osmanlı'da değişim, diplomasi)
@@ -20,7 +20,7 @@
 - [ ] 14:45-16:00 - Kimya 10 (Periyodik tablo, kimyasal türler)
 - [ ] 17:00-18:30 - Felsefe 10 (Bilgi ve varlık felsefesi)
 - [ ] 19:00-20:30 - Fizik son tekrar
-- [ ] 20:30-22:00 - Edebiyat soru çözümü
+- [x] 20:30-22:00 - Edebiyat soru çözümü
 
 ## 📅 31 Mayıs Pazar (İlk Sınava 2 Gün)
 - [x] 10:00-12:00 - Coğrafya 10 (Nüfus, göç, ekonomi)
