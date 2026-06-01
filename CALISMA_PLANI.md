@@ -31,11 +31,11 @@
 - [ ] 21:00-22:00 - İngilizce + Biyoloji kısa tekrar
 
 ## 📅 1 Haziran Pazartesi (Sınavlara 1 Gün)
-- [ ] 17:30-19:00 - Fizik son tekrar (Çıkmış sorular, formüller)
-- [ ] 19:15-20:30 - Edebiyat (Yarın fizik var, elden bırakma)
-- [ ] 20:45-21:30 - Fizik hızlı not tekrarı
-- [ ] 22:00 - Erken yatış (Uyku önemli!)
-- [ ] **🎒 Çantanı hazırla!**
+- [x] 17:30-19:00 - Fizik son tekrar (Çıkmış sorular, formüller)
+- [x] 19:15-20:30 - Edebiyat (Yarın fizik var, elden bırakma)
+- [x] 20:45-21:30 - Fizik hızlı not tekrarı
+- [x] 22:00 - Erken yatış (Uyku önemli!)
+- [x] **🎒 Çantanı hazırla!**
 
 ## 📝 2 Haziran Salı - FİZİK SINAVI (10:10)
 - [ ] 17:00-19:00 - Edebiyat son tekrar
