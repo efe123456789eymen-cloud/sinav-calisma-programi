@@ -43,8 +43,8 @@
 - [x] 21:00-22:00 - Edebiyat yazılı provası
 
 ## 📝 3 Haziran Çarşamba - EDEBİYAT 10 (11:50)
-- [ ] 17:00-19:00 - İngilizce (Reading, writing)
-- [ ] 19:00-20:30 - Biyoloji (Sistemler)
+- [x] 17:00-19:00 - İngilizce (Reading, writing)
+- [x] 19:00-20:30 - Biyoloji (Sistemler)
 - [ ] 20:30-22:00 - Tarih 10
 
 ## 📝 4 Haziran Perşembe - İNGİLİZCE (10:10) & BİYOLOJİ (11:50)
