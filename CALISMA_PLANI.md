@@ -38,9 +38,9 @@
 - [x] **🎒 Çantanı hazırla!**
 
 ## 📝 2 Haziran Salı - FİZİK SINAVI (10:10)
-- [ ] 17:00-19:00 - Edebiyat son tekrar
+- [x] 17:00-19:00 - Edebiyat son tekrar
 - [ ] 19:00-21:00 - İngilizce + Biyoloji notları
-- [ ] 21:00-22:00 - Edebiyat yazılı provası
+- [x] 21:00-22:00 - Edebiyat yazılı provası
 
 ## 📝 3 Haziran Çarşamba - EDEBİYAT 10 (11:50)
 - [ ] 17:00-19:00 - İngilizce (Reading, writing)
