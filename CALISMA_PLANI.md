@@ -48,12 +48,12 @@
 - [ ] 20:30-22:00 - Tarih 10
 
 ## 📝 4 Haziran Perşembe - İNGİLİZCE (10:10) & BİYOLOJİ (11:50)
-- [ ] 17:00-19:00 - Tarih 10 + Türk Düşünce Tarihi
+- [x] 17:00-19:00 - Tarih 10 + Türk Düşünce Tarihi
 - [ ] 19:00-20:30 - Kimya 10
 - [ ] 20:30-22:00 - Felsefe 10
 
 ## 📝 5 Haziran Cuma - TARİH + TÜRK DÜŞÜNCE TARİHİ
-- [ ] Sınav Sonrası - Hafta sonu yoğun çalışması öncesi dinlenme
+- [x] Sınav Sonrası - Hafta sonu yoğun çalışması öncesi dinlenme
 
 ## 📅 6 Haziran Cumartesi (Hafta Sonu)
 - [ ] 10:00-12:00 - Kimya çalışması
